@@ -1,4 +1,4 @@
-# CHPP — California House Price Predictor
+# CHPP, California House Price Predictor
 
 CHPP (California House Price Predictor) is a machine learning web application that predicts house prices in California using user-provided features. The project uses a trained Scikit-learn model and a Streamlit-based frontend for interaction.
 
