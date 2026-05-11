@@ -9,6 +9,7 @@ st.set_page_config(
     page_title="CHPP",
     layout="wide"
 )
+
 st.title("California House Price Predictor")
 sidebar()
 st.write("Predict housing prices in California using our model")
